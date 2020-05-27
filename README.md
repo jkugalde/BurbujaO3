@@ -2,7 +2,7 @@
 
 ### Table of contents
 
-- [Resumen](#resume)
+- [Resume](#resume)
 - [Working principle](#working-principle)
 - [Design](#design)
 - [Electronics](#electronics)
