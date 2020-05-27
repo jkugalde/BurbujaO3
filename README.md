@@ -35,6 +35,8 @@ LCD Screen 16x02 i2C  | 1
 
 ## How to use
 
+Refer [to](/howtouse.md)
+
 ## Tests
 
 
